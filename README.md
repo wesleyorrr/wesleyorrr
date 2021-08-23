@@ -26,7 +26,8 @@
     <br>
  <a href="https://discord.com/channels/877169709475303465/877169710251245580" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/wesley-de-oliveira-rodrigues-1771911b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
+    <a href="https://stackexchange.com/users/22543766/wesley-oliveira" target="_blank"> <img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" _ blank "> </a>
     
  
 </div>
+    
