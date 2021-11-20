@@ -1,11 +1,11 @@
 <h1 alingn="center">Seja Bem Vindos meu nome é Wesley </h1> 
-
 <h4><br>:man_student: Formado em Análise e Desenvolvimento de Sistema.<br>
     <br>:heart: Apaixonado por desenvolvimento Android!<br> 
     <br>:exploding_head: E com a mente inquieta.<br>
     <br>:raised_hands: Sempre buscando melhorar e aprender novas tecnológicas.<br>
     <br>:facepunch: Evoluindo a cada dia e buscando novos desafios.<br>
-    <br>:man: Meu Portífolio - wesleyorrr.github.io/wesleyorrr-WesleydvAndroid/<br>
+    <br>👉<a href="https://wesleyorrr.github.io/wesleyorrr-WesleydvAndroid/">Meu Portífolio</a><br>
+    <br> <a href="mailto:wesleyorrr@gmail.com">wesleyorrr@hotmail.com👈</a><br>
 </h4>
 <br>
 <div>
@@ -32,5 +32,3 @@
     
  
 </div>
-    
-
