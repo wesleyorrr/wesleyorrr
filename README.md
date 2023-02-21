@@ -1,10 +1,10 @@
-<h1 alingn="center">Seja Bem Vindos meu nome é Wesley </h1> 
-<h4><br>:man_student: Formado em Análise e Desenvolvimento de Sistema.<br>
-    <br>:heart: Apaixonado por desenvolvimento Android!<br> 
-    <br>:exploding_head: E com a mente inquieta.<br>
-    <br>:raised_hands: Sempre buscando melhorar e aprender novas tecnológicas.<br>
-    <br>:facepunch: Evoluindo a cada dia e buscando novos desafios.<br>
-    <br>👉<a href="https://wesleyorr.github.io/wesleyorrrportifolio/">Meu Portífolio</a><br>
+<h1 alingn="center">Hello my name is Wesley de Oliveira and I'm an android developer.</h1> 
+<h4><br>:man_student: Graduated in System Analysis and Development.<br>
+    <br>:heart: Passionate about Android development!<br> 
+    <br>:exploding_head: And with a restless mind.<br>
+    <br>:raised_hands: Always looking to improve and learn new technologies.<br>
+    <br>:facepunch: Evolving every day and seeking new challenges.<br>
+    <br>👉<a href="https://wesleyorr.github.io/wesleyorrrportifolio/">My Portfolio</a><br>
     <br> <a href="mailto:wesleyorrr@gmail.com">wesleyorrr@gmail.com👈</a><br>
 </h4>
 <br>
