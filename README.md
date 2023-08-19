@@ -1,37 +1,65 @@
-<h1 alingn="center">Hello my name is Wesley de Oliveira and I'm an android developer.</h1> 
-  <div> 
- <img align="center" alt="Wes-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-  <img align="center" alt="Wes-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Wes-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Wes-Banco" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Wes-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Wes-word" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Wes-Fire" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">  
-  <div>
-<br>
-  <div>
- <a href="https://discord.com/channels/877169709475303465/877169710251245580" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/wesley-de-oliveira-rodrigues-1771911b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://stackexchange.com/users/22543766/wesley-oliveira" target="_blank"> <img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" _ blank "> </a>
-</div>
-  
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/wesleyorrr/Documentation/blob/main/4707122.jpg">
 
-<h4><br>:man_student: Graduated in System Analysis and Development.<br>
-    <br>:heart: Passionate about Android development!<br> 
-    <br>:exploding_head: And with a restless mind.<br>
-    <br>:raised_hands: Always looking to improve and learn new technologies.<br>
-    <br>:facepunch: Evolving every day and seeking new challenges.<br>
-    <br>👉<a href="https://wesleyorr.github.io/wesleyorrrportifolio/">My Portfolio</a><br>
-    <br> <a href="mailto:wesleyorrr@gmail.com">wesleyorrr@gmail.com👈</a><br>
-</h4>
+<h1>
+<span>Wesley de Oliveira Rodrigues</span>
+</h1>
+
+<p align="justify">Hello, my name is Wesley de Oliveira Rodrigues, and I reside in Curvelo, Minas Gerais. As a technology enthusiast, I stand out as a versatile Android developer, experienced in programming languages such as Java and Kotlin. With years of practice and countless hours of dedication, I have been creating innovative and functional applications that offer exceptional user experiences. I am constantly seeking improvement, continuously updating my skills to keep up with the latest trends in the mobile development world. My dedication to turning ideas into reality, combined with my technical knowledge, drives me to create impactful solutions.
+</a>.</p>
+<h3 align="left">Technologies</h3>
 <br>
+  <div> 
+<img align="center" alt="Wes-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+    
+  <img align="center" alt="Wes-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+        
+  
+          
+  <img align="center" alt="Wes-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+          
+  <img align="center" alt="Wes-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
+  <img align="center" alt="Wes-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  
+  <img align="center" alt="Wes-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+  <img align="center" alt="Wes-Fire" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> 
+  
+  <img align="center" alt="Wes-Lite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" />
+  
+<img align="center" alt="Wes-Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
+          
+          
+
+</div>
+
+
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
+<h3 align="left">Connect with me</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:wesleyorrr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/wesley-de-oliveira-rodrigues)
+
+<h3 align="left">GitHub Stats</h3>
 <div>
   <a href="https://github.com/wesleyorrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&langs_count=7&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&langs_count=7&theme=purple"/>
 </div>
-<div style="display: inline_block"><br>
-  
-</div>
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+
+</details>
+
 
 
