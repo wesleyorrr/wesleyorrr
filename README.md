@@ -28,27 +28,22 @@
   <img align="center" alt="Wes-Lite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" />
   
 <img align="center" alt="Wes-Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
-          
-          
-
+        
 </div>
 
-
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
 <h3 align="left">Connect with me</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:wesleyorrr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/wesley-de-oliveira-rodrigues)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=buefy6&color:FFF)](mailto:wesleyorrr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=buefyF6&color:FFF)](https://www.linkedin.com/in/wesley-de-oliveira-rodrigues)
 
 <h3 align="left">GitHub Stats</h3>
 <div>
   <a href="https://github.com/wesleyorrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&langs_count=7&theme=purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&langs_count=7&theme=buefy"/>
 </div>
+
+
 
 
 
