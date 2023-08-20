@@ -4,7 +4,7 @@
 <span>Wesley de Oliveira Rodrigues</span>
 </h1>
 
-<p align="justify">Curvelo, MG, is where I call home. Navigating the world of Android development with Java and Kotlin, following the path of MVVM, SQLite, and the elegant touch of Material Design. Turning lines of code into meaningful experiences, whether it's with Retrofit, unit testing, or APIs. Beyond the virtual realm, you'll find me running, playing soccer, at the gym, and cherishing precious moments with family. Striving for excellence not only in code but also in spiritual connection.</a>.</p>
+<p align="justify"> Minas Gerais, is where I call home. Navigating the world of Android development with Java and Kotlin, following the path of MVVM, SQLite, and the elegant touch of Material Design. Turning lines of code into meaningful experiences, whether it's with Retrofit, unit testing, or APIs. Beyond the virtual realm, you'll find me running, playing soccer, at the gym, and cherishing precious moments with family. Striving for excellence not only in code but also in spiritual connection.</a>.</p>
 <h3 align="left">Technologies</h3>
 <br>
   <div> 
