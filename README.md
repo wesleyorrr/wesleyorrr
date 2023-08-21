@@ -37,9 +37,11 @@
 
 <h3 align="left">GitHub Stats</h3>
 <div>
+
+  
   <a href="https://github.com/wesleyorrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&locale=en&layout=compact" alt="wesleyorrr""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&show_icons=true&locale=en&layout=compact" alt="wesleyorrr"/>
 </div>
 
 
