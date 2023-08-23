@@ -39,10 +39,13 @@
 <div>
 
   
+<div>
   <a href="https://github.com/wesleyorrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&locale=en&layout=compact" alt="wesleyorrr""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&show_icons=true&locale=en&layout=compact" alt="wesleyorrr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&locale=en&layout=compact&theme=dark" alt="wesleyorrr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&show_icons=true&locale=en&layout=compact&theme=dark" alt="wesleyorrr"/>
+  </a>
 </div>
+
 
 
 
