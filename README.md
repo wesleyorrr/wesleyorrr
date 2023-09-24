@@ -12,7 +12,7 @@
 - LiveData
 - ViewBinding
 - Navigation
--Arquitetura(MVVM)
+- Arquitetura(MVVM)
 - Ferramentas de controle de versão (Git);
 - Retrofit;
 - RxJava;
