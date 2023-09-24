@@ -16,7 +16,7 @@
 - Ferramentas de controle de versão (Git);
 - Retrofit;
 - RxJava;
--DesignPatterns;
+- DesignPatterns;
 
 Soft skills:
 - Trabalho em equipe;
