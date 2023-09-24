@@ -13,18 +13,18 @@
 - ViewBinding
 - Navigation
 - Arquitetura(MVVM)
-- Ferramentas de controle de versão (Git);
-- Retrofit;
-- RxJava;
-- DesignPatterns;
+- Ferramentas de controle de versão (Git)
+- Retrofit
+- RxJava
+- DesignPatterns
 
 Soft skills:
-- Trabalho em equipe;
-- Boa Comunicação;
-- Facilidade em adaptações;
-- Espirito empreendedor;
-- Organização;
-- Facilidade em aprender.</a>.</p>
+- Teamwork
+- Good Communication
+- Adaptability
+- Entrepreneurial Spirit
+- Organization
+- Quick Learning </a></p>
 <h3 align="left">Technologies</h3>
 <br>
   <div> 
