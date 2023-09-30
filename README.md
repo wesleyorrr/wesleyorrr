@@ -5,7 +5,7 @@
 </h1>
 
 <p align="justify"> 
-  Hard skills
+<h4>  Hard skills </h4>
   
 - Kotlin/Java
 - Room
@@ -18,7 +18,8 @@
 - RxJava
 - DesignPatterns
 
-Soft skills:
+<h4> Soft skills:</h4>
+
 - Teamwork
 - Good Communication
 - Adaptability
