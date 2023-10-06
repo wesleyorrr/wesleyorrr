@@ -53,6 +53,9 @@
 
 <h3 align="left">Connect with me</h3>
 
+<h8> Please feel free to contact me through the following platforms:</h8>
+ 
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=buefy6&color:FFF)](mailto:wesleyorrr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=buefyF6&color:FFF)](https://www.linkedin.com/in/wesley-de-oliveira-rodrigues)
 
