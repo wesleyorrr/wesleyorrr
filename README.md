@@ -15,6 +15,7 @@
 - Arquitetura(MVVM)
 - Ferramentas de controle de versão (Git)
 - Retrofit
+- Json
 - RxJava
 - DesignPatterns
 
