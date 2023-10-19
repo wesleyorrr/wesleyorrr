@@ -9,6 +9,7 @@
   
 - Kotlin/Java
 - Room
+- Sqlite
 - LiveData
 - ViewBinding
 - Navigation
