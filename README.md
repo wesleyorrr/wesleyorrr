@@ -12,6 +12,7 @@
 - Sqlite
 - LiveData
 - ViewBinding
+- DataBinding
 - Navigation
 - Arquitetura(MVVM)
 - Ferramentas de controle de versão (Git)
