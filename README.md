@@ -8,6 +8,7 @@
 <h4>  Hard skills </h4>
   
 - Kotlin/Java
+- Jetpack Compose
 - Room
 - Sqlite
 - LiveData
