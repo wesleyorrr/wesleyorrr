@@ -14,6 +14,7 @@
 - LiveData
 - ViewBinding
 - DataBinding
+- DataBinding
 - Navigation
 - Arquitetura(MVVM)
 - Ferramentas de controle de versão (Git)
