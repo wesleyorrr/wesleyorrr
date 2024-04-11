@@ -30,7 +30,7 @@
 - Adaptability
 - Entrepreneurial Spirit
 - Organization
-- Quick Learning </a></p>
+ </a></p>
 <h3 align="left">Technologies</h3>
 <br>
   <div> 
