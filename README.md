@@ -74,8 +74,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&show_icons=true&locale=en&layout=compact&theme=dark" alt="wesleyorrr"/>
   </a>
 </div>
-
-
+<div>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fagostinhomarcia%2Fagostinhomarcia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
+</div>
 
 
 
