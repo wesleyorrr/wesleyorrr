@@ -17,7 +17,7 @@
 - DataBinding
 - Navigation
 - Arquitetura(MVVM)
-- Git Gitflow Github Gitlae
+- Git Gitflow Github Gitlab
 - Retrofit
 - Json
 - RxJava
