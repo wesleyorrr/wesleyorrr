@@ -62,5 +62,4 @@ Sinta-se à vontade para entrar em contato pelas plataformas abaixo:
 ---
 
 ### 👀 Visitantes no perfil
-
-![Visitantes](https://img.shields.io/badge/👁️_Visitantes-Ativos-blue)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wesleyorrr" alt="Visitantes"/>
