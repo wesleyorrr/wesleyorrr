@@ -59,7 +59,3 @@ Sinta-se à vontade para entrar em contato pelas plataformas abaixo:
   </a>
 </div>
 
----
-
-### 👀 Visitantes no perfil
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wesleyorrr" alt="Visitantes"/>
