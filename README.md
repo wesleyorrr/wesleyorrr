@@ -17,8 +17,8 @@ Além da tecnologia, tenho algumas paixões que fazem parte do meu dia a dia:
 
 - ⚽ Gosto muito de **jogar futebol** com os amigos.
 - 🚶‍♂️ Aproveito momentos livres para **andar pela praça** e relaxar.
-- 🎶 Amo **escutar louvores de adoração a Deus**, fortalecendo minha fé e inspiração diária.
-
+- 🎶 Amo **escutar louvores de adoração a Deus**.
+- 📚 Gosto de **Passar um bom tempo lendo livros**.
 ---
 
 ## ✨ Objetivo aqui no GitHub
