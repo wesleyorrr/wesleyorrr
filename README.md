@@ -17,7 +17,7 @@ Além da tecnologia, tenho algumas paixões que fazem parte do meu dia a dia:
 
 - ⚽ Gosto muito de **jogar futebol** com os amigos.
 - 🚶‍♂️ Aproveito momentos livres para **andar pela praça** e relaxar.
-- 🎶 Amo **escutar louvores de adoração a Deus**.
+- 🎶 Amo **escutar louvores a Deus**.
 - 📚 Gosto de **Passar um bom tempo lendo livros**.
 - 🎶 Gosto de **escutar livros e documentantarios a noite**.
 ---
