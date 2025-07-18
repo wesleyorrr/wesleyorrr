@@ -80,7 +80,9 @@ Sinta-se à vontade para entrar em contato pelas plataformas abaixo:
   </a>
 </div>
 
+## 📈 GitHub Contribution Snake
 
+![snake gif](https://raw.githubusercontent.com/wesleyorrr/wesleyorrr/output/github-contribution-grid-snake-dark.svg)
 ---
 
 _"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens." - Colossenses 3:23_ ✝️
