@@ -52,7 +52,7 @@ Se quiser acompanhar meu trabalho ou trocar uma ideia, fique à vontade para exp
 <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-<img align="center" alt="Matplotlib" height="30" width="40" src="https://matplotlib.org/_static/images/logo2.svg" />
+<img align="center" alt="Matplotlib" height="30" width="40" src="https://logo.svgcdn.com/logos/matplotlib.svg" />
 <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
