@@ -75,8 +75,7 @@ Sinta-se à vontade para entrar em contato pelas plataformas abaixo:
 
 <div>
   <a href="https://github.com/wesleyorrr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyorrr&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&theme=dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&theme=dark" alt="Top Languages"/>
   </a>
 </div>
 
