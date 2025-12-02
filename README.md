@@ -71,13 +71,6 @@ Sinta-se à vontade para entrar em contato pelas plataformas abaixo:
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/wesleyorrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyorrr&layout=compact&theme=dark" alt="Top Languages"/>
-  </a>
-</div>
 
 ## 📈 GitHub Contribution Snake
 
