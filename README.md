@@ -6,8 +6,7 @@ Seja bem-vindo(a) ao meu GitHub! 🚀
 
 Sou apaixonado por **tecnologia** e **desenvolvimento de soluções** que fazem a diferença na vida das pessoas. Atualmente, trabalho com:
 
-- 📱 **Desenvolvimento Android** (Kotlin e Java)
-- 🌐 **Desenvolvimento Web** (HTML, CSS, JavaScript)
+- 🌐 **Desenvolvimento Web/Mobile** (HTML, CSS, JavaScript)
 - 📊 **Análise de Dados** (Python, SQL e ferramentas de BI)
 
 ---
