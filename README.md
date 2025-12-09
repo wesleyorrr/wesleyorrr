@@ -8,6 +8,7 @@ Sou apaixonado por **tecnologia** e **desenvolvimento de soluções** que fazem 
 
 - 🌐 **Desenvolvimento Web/Mobile** (HTML, CSS, JavaScript)
 - 📊 **Análise de Dados** (Python, SQL e ferramentas de BI)
+- 👨‍💻​ **Desenvolvimento Mobile Android**(Java,Kotlin)
 
 ---
 
