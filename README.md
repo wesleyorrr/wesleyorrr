@@ -1,32 +1,15 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/wesleyorrr/Documentation/blob/main/4707122.jpg">
 
-# 👋 Olá, eu sou Wesley de Oliveira Rodrigues!
-
-Seja bem-vindo(a) ao meu GitHub! 🚀
-
-Sou apaixonado por **tecnologia** e **desenvolvimento de soluções** que fazem a diferença na vida das pessoas. Atualmente, trabalho com:
-
-- 🌐 **Desenvolvimento Web/Mobile** (HTML, CSS, JavaScript)
-- 📊 **Análise de Dados** (Python, SQL e ferramentas de BI)
-- 👨‍💻​ **Desenvolvimento Mobile Android**(Java,Kotlin)
 
 ---
 
-## 👨‍💻 Sobre mim
-Além da tecnologia, tenho algumas paixões que fazem parte do meu dia a dia:
+## ✨Desenvolvedor de Sistemas Web | Análise e Desenvolvimento de Sistemas
 
-- ⚽ Gosto muito de **jogar futebol** com os amigos.
-- 🚶‍♂️ Aproveito momentos livres para **andar pela praça** e relaxar.
-- 🎶 Amo **escutar louvores a Deus**.
-- 📚 Gosto de **Passar um bom tempo lendo livros**.
+Construindo soluções digitais com HTML, CSS e JavaScript.
 
----
+Interesses: desenvolvimento web, sistemas de gestão, análise de dados e dashboards.
 
-## ✨ Objetivo aqui no GitHub
-
-Neste espaço compartilho projetos, estudos e ideias que refletem minha jornada profissional e pessoal. Cada repositório foi desenvolvido com muito **amor, carinho e dedicação**, buscando sempre a evolução constante.
-
-Se quiser acompanhar meu trabalho ou trocar uma ideia, fique à vontade para explorar meus projetos ou entrar em contato! 🤝
+🚀 Criador da OR System — projetos e soluções tecnológicas para negócios.
 
 ---
 ### 🚀 Technologies & Tools
