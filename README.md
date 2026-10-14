@@ -1,8 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/wesleyorrr/Documentation/blob/main/4707122.jpg">
 
 
----
-
 ## ✨Desenvolvedor de Sistemas Web | Análise e Desenvolvimento de Sistemas
 
 Construindo soluções digitais com HTML, CSS e JavaScript.
